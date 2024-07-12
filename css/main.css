@@ -1,0 +1,25 @@
+.box {
+    width: 350px;
+    height: 220px;
+    background-color: green;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    border-width: 2px ;
+    border-style: dashed;
+    border-color: red;
+    margin-bottom: 30px;
+}
+
+* {
+    box-sizing: border-box;
+}
+/* ширина 350px;
+висота 220px;
+внутрішній відступ: зверху 15px, зліва 10px, внизу 20px, праворуч 10px;
+зовнішній нижній відступ 30px;
+"пунктирну" границу червоного кольору товщиною 2px;
+зелений "фон" елемента. */
+
+
